@@ -33,19 +33,23 @@ npm run dev
 
 The main interface provides a simple search experience for entering a public Instagram profile and selecting the type of media to retrieve.
 
-![Instagram Media Linker Main Interface](https://github.com/user-attachments/assets/cac0d98c-8419-4b79-b801-9149bc36fe0a)
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/2a34c0a3-4ecf-47b5-a2d1-b297b6bf6ad0" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/82492f2f-c5c5-4170-82a2-b97878549861" />
+
 
 ### 2. Media Results Table
 
 Retrieved public Instagram media is organized into a clean, copy-friendly table, making it easier to work with the returned media and Instagram permalink information.
 
-![Instagram Media Results](https://github.com/user-attachments/assets/e1979dc1-b39d-4352-9434-9010ff7cd721)
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/21a14234-cba6-4553-8503-83292b0a93df" />
+<img width="887" height="627" alt="image" src="https://github.com/user-attachments/assets/271c2ea9-9b62-44f5-bb43-82dd2ecbcb68" />
+
 
 ### 3. Media Selection / Result View
 
 The result interface provides an organized view of the available public media returned by the provider.
 
-![Instagram Media Selection](https://github.com/user-attachments/assets/7b6ad15d-7eff-48eb-9b34-b52b5771fe76)
+<img width="542" height="910" alt="image" src="https://github.com/user-attachments/assets/e2297057-139b-43b6-9709-cac1a8c5c47f" />
 
 ## Notes
 
