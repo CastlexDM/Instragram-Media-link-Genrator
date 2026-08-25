@@ -32,3 +32,4 @@ npm run dev
 - Media URLs can be temporary CDN URLs and may expire; the Instagram permalink remains the stable page link.
 - The app currently requests up to 100 results per media type per search. The backend supports up to 2400 per type.
 - Use the service in accordance with Instagram/Meta terms, Apify terms, and applicable law.
+"# Instragram-Media-link-Genrator" 
